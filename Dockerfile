@@ -1,4 +1,4 @@
-FROM vecps.cargo.io/release/java:8
+FROM docker.io/liugb1029/java:8
 
 COPY target/democi.jar  /usr/src/myapp/
 
