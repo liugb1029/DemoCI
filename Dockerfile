@@ -1,4 +1,4 @@
-FROM test.caicloudprivatetest.com/library/java:8
+FROM vecps.cargo.io/release/java:8
 
 COPY target/democi.jar  /usr/src/myapp/
 
